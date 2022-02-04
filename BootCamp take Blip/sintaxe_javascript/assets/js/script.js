@@ -1,0 +1,3 @@
+alert("Abertura do site");
+
+
